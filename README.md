@@ -2,15 +2,8 @@
 
 A new Flutter project.
 
-## Getting Started
+### Aim of this small example to work and understant BuldContext and how it works
 
-This project is a starting point for a Flutter application.
+![localhost_63396_(iPhone 12 Pro) (1)](https://user-images.githubusercontent.com/126196537/231765395-9eba4f1d-52f2-4bea-9477-3f89401212af.png)
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![localhost_63396_(iPhone 12 Pro)](https://user-images.githubusercontent.com/126196537/231765401-a920b62d-76db-4b7a-8868-db0dbbb57af4.png)
